@@ -1,2 +1,1 @@
-# KnowledgeManagementUsingEmacs
-浣跨敤Emacs鏋勫缓鐭ヨ瘑绠＄悊绯荤粺
+将emacs_home/Run Emacs.cmd复制到桌面，修改其中路径
