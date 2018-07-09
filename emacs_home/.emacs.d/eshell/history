@@ -1,0 +1,128 @@
+cd D:\temp\hexoBlog
+cd D:/temp/hexoBlog
+git clone https://github.com/theme-next/hexo-theme-next.git themes/next2
+hexo g -d
+cd J:/Nutstore/km
+hexo init blog
+cd blog
+npm install
+hexo g
+hexo s
+hexo d
+INFO  50 files generated in 1.19 s
+hexo d
+npm install hexo-deployer-git --save
+npm audit fix
+hexo d
+hexo -d g
+hexo d -g
+cd ..
+cd blog
+cd ..
+cd blog
+git clone https://github.com/lotabout/very-simple.git themes/very-simple
+hexo g
+INFO  Generated: css/main.css
+hexo g
+hexo g
+hexo g
+hexo s
+git clone https://github.com/lotabout/very-simple themes/very-simple
+npm install hexo-renderer-sass --save
+cnpm install hexo-renderer-sass --save
+cnpm install hexo-renderer-jade --save
+hexo g
+hexo s
+hexo d
+cd D:\temp\hexoBlog
+cd D:/temp/hexoBlog
+hexo new aa bb
+hexo new "aa bb"
+cd j:/Nutstore/km/blog
+INFO  Created: d:\temp\hexoBlog\source\_posts\bb.md
+hexo new "build notes app by Emacs and Nutstore"
+hexo g
+hexo s
+hexo g
+hexo g
+hexo g
+hexo g
+hexo s
+hexo g
+hexo s
+hexo g
+hexo s
+INFO  Created: d:\temp\hexoBlog
+INFO  Created: d:/temp/hexoBlog
+cd d:/temp/hexoBlog
+hexo new tes_chinese
+hexo g
+hexo s
+hexo g
+hexo s
+cd j:/Nutstore/km/blog
+hexo new test_chinese
+hexo g
+hexo s
+hexo new test_chinese2
+hexo s
+hexo g
+hexo s
+hexo g
+hexo s
+hexo g
+hexo s
+cd blog
+hexo new draft bind-keys-in-emacs
+hexo server
+hexo g
+hexo server
+hexo g
+?
+cd cd ..
+cd ..
+cd ..
+cd blog
+hexo server -draft
+hexo g
+hexo server -draft
+hexo --draft
+hexo --draft
+hexo  --draft
+hexo server --draft --open
+hexo server --open
+y
+hexo server --draft --open
+npm install hexo-browsersync --save
+cnpm install hexo-browsersync --save
+hexo server --draft --open
+hexo new test
+hexo server --draft
+hexo server --draft --open
+npm install https://github.com/coldnew/hexo-renderer-org#coldnew --save
+hexo new tes-org
+hexo server --draft --open
+hexo server --draft --open
+hexo server --draft --open
+hexo server --draft --open
+hexo server --draft --open
+hexo c
+hexo clean
+hexo server --draft --open
+hexo g
+hexo server --draft --open
+hexo clean
+hexo server --draft --open
+hexo server --draft --open
+cnpm install
+hexo server --draft --open
+cd D:\J\workspace\tag
+cd D:/J/workspace/tag
+cd D:/J/workspace/tag/phone/artisanState/app
+gradlew ../aR
+./gradlew ../aR
+../gradlew aR
+ls
+cd ..
+cd ..
+hexo

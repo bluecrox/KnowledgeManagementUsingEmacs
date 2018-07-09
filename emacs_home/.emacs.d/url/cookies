@@ -1,0 +1,14 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ '((".hexo.io"
+  [url-cookie "__cfduid" "d237de83b432b4bd5726cb55a2ac395f71529532540" "Thu, 20-Jun-19 22:09:00 GMT" "/" ".hexo.io" nil]))
+)
+(setq url-cookie-secure-storage
+ 'nil)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; End:
