@@ -70,13 +70,13 @@
               (if default (symbol-name default)))))
     (unless (zerop (length cs)) (intern cs))))
 
-;;解决windows复制粘贴显示乱码的问题
+;;解决windows系统复制中文再粘贴到Emacs中显示乱码的问题
 (when (eq system-type 'windows-nt)
 (set-next-selection-coding-system 'utf-16-le)
 (set-selection-coding-system 'utf-16-le)
 (set-clipboard-coding-system 'utf-16-le))
 
-;;解决中文表格不对齐的问题，使用微软雅黑字体
+;;解决中文表格不对齐和卡顿的问题（使用微软雅黑字体）
 ;; Setting English Font 
 (set-face-attribute 
 'default nil :font "Consolas 11") 
