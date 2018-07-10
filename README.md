@@ -1,1 +1,1 @@
-将emacs_home/Run Emacs.cmd复制到桌面，修改其中路径
+杩欎釜浠撳簱鏄敤浜嶽浣跨敤Emacs鍜屽潥鏋滀簯鏋勫缓鑷繁鐨勭瑪璁扮郴缁焆(https://yiyo.io/2018/06/22/knowledge-management-using-emacs-and-nutstore/)鏁欏浣跨敤
